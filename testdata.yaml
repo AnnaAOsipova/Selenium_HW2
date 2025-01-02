@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 5
+wait: 10
+username: Nyusha
+password: 15f4e1b8e6
+title: SeleniumWeb
